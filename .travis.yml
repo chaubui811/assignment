@@ -10,4 +10,3 @@ before_install:
   - npm install
   - mkdir public
   - pwd
-  - ls -la
